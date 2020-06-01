@@ -14,3 +14,6 @@
            💻 101:HTML ➛ Başarı Notu: 100/100
            💻 201:HTML5 ve CSS3 ➛ Başarı Notu: 95/100
            💻 Unity 101-Visual Studio ve C# ➛ Başarı Notu: 85/100
+      
+      4) İstanbul Boğaziçi Enstitüsü
+           💻 Etkili İletişim Teknikleri Eğitimi ➛ Başarı Notu: 80/100
