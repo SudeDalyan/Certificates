@@ -17,3 +17,6 @@
       
       4) İstanbul Boğaziçi Enstitüsü
            💻 Etkili İletişim Teknikleri Eğitimi ➛ Başarı Notu: 80/100
+           
+      5) Bilgeİş
+           💻 Girişimcilik
