@@ -20,3 +20,4 @@
            
       5) Bilgeİş
            💻 Girişimcilik
+           💻 Ofiste Sağlıklı Yaşam
