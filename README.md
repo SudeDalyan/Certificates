@@ -2,6 +2,9 @@
       1) İ𝐬𝐭𝐚𝐧𝐛𝐮𝐥 İş𝐥𝐞𝐭𝐦𝐞 𝐄𝐧𝐬𝐭𝐢𝐭ü𝐬ü
            💻 C# Eğitimi ➛ Başarı Notu: 100/100
            💻 HTML5 ve CSS3 Eğitimi ➛ Başarı Notu: 100/100
+           💻 Python Eğitimi ➛ Başarı Notu: 80/100
+           💻 Laravel ile Web Sitesi Kurma ➛ Başarı Notu: 70/100
+           💻 Sağlık Kurumları İşletmeciliği ➛ Başarı Notu: 90/100
            
       2) 𝐔𝐃𝐄𝐌𝐘
            💻 C# Programlama
